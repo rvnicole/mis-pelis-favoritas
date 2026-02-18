@@ -1,1 +1,1 @@
-# Mis Pelis Favoritas
+# <img src="/public/logo_mis_pelis.png" /> Mis Pelis Favoritas
