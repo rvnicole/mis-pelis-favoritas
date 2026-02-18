@@ -9,6 +9,7 @@ https://mis-pelis-favoritas.vercel.app/
 
 ![Demo](./public/scroll-infinito.gif)
 ![Demo](./public/favoritos.gif)
+![Demo](./public/busqueda.gif)
 
 ---
 
