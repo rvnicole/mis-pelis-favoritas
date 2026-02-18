@@ -19,5 +19,5 @@ https://mis-pelis-favoritas.vercel.app/
 - Tailwind CSS
 
 ### 🚀 Instalación
-npm install
-npm run dev
+>_ npm install
+>_ npm run dev
