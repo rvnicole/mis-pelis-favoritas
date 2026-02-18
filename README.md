@@ -11,7 +11,7 @@ https://mis-pelis-favoritas.vercel.app/
 - ❤️ Lista de películas favoritas
 - ✔️ Persistencia en LocalStorage
 
-### ​Stack tecnológico
+### ⚡​Stack tecnológico
 - React
 - TypeScript
 - Zustand
