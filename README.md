@@ -17,3 +17,7 @@ https://mis-pelis-favoritas.vercel.app/
 - Zustand
 - Zod
 - Tailwind CSS
+
+### 🚀 Instalación
+npm install
+npm run dev
