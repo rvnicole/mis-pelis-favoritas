@@ -1,1 +1,1 @@
-# <img src="/public/logo_mis_pelis.png" width="20" heigth="20"/> Mis Pelis Favoritas
+# <img src="/public/logo_mis_pelis.png" width="50" heigth="50"/> Mis Pelis Favoritas
