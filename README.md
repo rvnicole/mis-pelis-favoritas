@@ -4,3 +4,9 @@ Catálogo de películas con búsqueda, scroll infinito y gestión de favoritos p
 
 ## 🌐 Demo
 https://mis-pelis-favoritas.vercel.app/
+
+## ✨ Características
+- Búsqueda de películas
+- Scroll infinito
+- Lista de películas favoritas
+- Persistencia en LocalStorage
