@@ -8,6 +8,7 @@ Catálogo de películas con búsqueda, scroll infinito y gestión de favoritos p
 https://mis-pelis-favoritas.vercel.app/
 
 ![Demo](./public/scroll-infinito.gif)
+![Demo](./public/favoritos.gif)
 
 ---
 
