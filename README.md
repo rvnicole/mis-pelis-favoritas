@@ -10,3 +10,10 @@ https://mis-pelis-favoritas.vercel.app/
 - ♾️ Scroll infinito
 - ❤️ Lista de películas favoritas
 - ✔️ Persistencia en LocalStorage
+
+### ​Stack tecnológico
+- React
+- TypeScript
+- Zustand
+- Zod
+- Tailwind CSS
