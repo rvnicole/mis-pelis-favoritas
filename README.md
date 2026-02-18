@@ -2,8 +2,12 @@
 
 Catálogo de películas con búsqueda, scroll infinito y gestión de favoritos persistida en localStorage.
 
+---
+
 ### 🌐 Demo
 https://mis-pelis-favoritas.vercel.app/
+
+---
 
 ### ✨ Características
 - 🔎 Búsqueda de películas
@@ -11,12 +15,16 @@ https://mis-pelis-favoritas.vercel.app/
 - ❤️ Lista de películas favoritas
 - ✔️ Persistencia en LocalStorage
 
+---
+
 ### ⚡​Stack tecnológico
 - React
 - TypeScript
 - Zustand
 - Zod
 - Tailwind CSS
+
+---
 
 ### 🚀 Instalación
 - npm install
